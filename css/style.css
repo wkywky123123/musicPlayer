@@ -5,8 +5,8 @@
 }
 #player{
     position: relative;
-    top: 100px;
-    left:200px;
+    top: 0px;
+    left:0px;
 }
 /* 歌曲信息模块 */
 #player-content1{
