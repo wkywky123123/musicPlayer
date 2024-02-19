@@ -23,7 +23,7 @@ $(function(){
     var musicImgsData = ['img/bg.jpg','img/bg1.jpg','img/bg2.jpg']    // 图片地址数组
     var musicNameData = ['光亮','可爱补习法','我会等','再次与你同行'];                   // 歌曲名数组
     var artistNameData = ['周深','泠鸢yousa','珠海童年树童声合唱团','熊大&熊二&光头强']            // 创作歌手数组
-    var musicUrls=['https://eyhhh-my.sharepoint.com/:u:/g/personal/kybaby_mrkaiyang_top/EQuRZuBALw5Pu1iA3TubY6EBWOG_6-Or5eXoHcVrCfemnQ','https://dlink.host/sharepoint/aHR0cHM6Ly9leWhoaC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9reWJhYnlfbXJrYWl5YW5nX3RvcC9FVS15RGRUalBySkppQzV2aG9ERnExa0JsaUhpT2JjSlVZNWhzSHktNUhxb3hB.mp3','https://dlink.host/sharepoint/aHR0cHM6Ly9leWhoaC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9reWJhYnlfbXJrYWl5YW5nX3RvcC9FWFc0bU4xbnNITkxqcks2X0stQTFURUJOWjYzM2s4TElRU2trb1R5S0ZZQ2dn.mp3','https://dlink.host/sharepoint/aHR0cHM6Ly9leWhoaC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9reWJhYnlfbXJrYWl5YW5nX3RvcC9FV0JGeUtXd3ZpRkVpTzd3bXJzYXpiMEI4ODB0S0JvWmNZZF9WR1lqNTFZTGpB.mp3'];// 歌曲mp3数组
+    var musicUrls=['mp3/光亮-周深.mp3','mp3/可爱补习法-泠鸢yousa.mp3','mp3/我会等-珠海童年树童声合唱团.mp3','mp3/再次与你同行-熊大&熊二&光头强.mp3'];// 歌曲mp3数组
     var currIndex = -1;              // 当前播放索引
     
     var buffInterval = null          // 初始化定时器 判断是否需要缓冲
