@@ -20,7 +20,7 @@ $(function(){
     
     // 一些计算所需的变量
     var seekT, seekLoc, seekBarPos, cM, ctMinutes, ctSeconds, curMinutes, curSeconds, durMinutes, durSeconds, playProgress, bTime, nTime = 0
-    var musicImgsData = ['img/bg.jpg','img/bg1.jpg','img/bg2.jpg']    // 图片地址数组
+    var musicImgsData = ['img/光亮.jpg','img/可爱补习法.jpg','img/我会等.png','img/再次与你同行.png']    // 图片地址数组
     var musicNameData = ['光亮','可爱补习法','我会等','再次与你同行'];                   // 歌曲名数组
     var artistNameData = ['周深','泠鸢yousa','珠海童年树童声合唱团','熊大&熊二&光头强']            // 创作歌手数组
     var musicUrls=['mp3/光亮-周深.mp3','mp3/可爱补习法-泠鸢yousa.mp3','mp3/我会等-珠海童年树童声合唱团.mp3','mp3/再次与你同行-熊大&熊二&光头强.mp3'];// 歌曲mp3数组
